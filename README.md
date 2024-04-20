@@ -36,6 +36,11 @@ quick_sort::sort(&mut numbers, &compare_asc);
 println!("Quick sorted integers: {:?}", numbers);
 ```
 
+## Screenshots
+![image_2024-04-20_21-02-55](https://github.com/IbnRasAl-Fakih/sorting_library/assets/121658609/042f0d93-9274-413f-89c8-c823f38ad0fd)
+![image_2024-04-20_21-04-05](https://github.com/IbnRasAl-Fakih/sorting_library/assets/121658609/7005ca58-f106-425c-a826-644aec37ba97)
+
+
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
