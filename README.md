@@ -21,13 +21,13 @@ sorting_library = { git = "https://github.com/IbnRasAl-Fakih/sorting_library" }
 ```
 
 2. In your Rust project, import the sorting functions you need:
-3. 
+   
 ```code
 use sorting_library::sort::{quick_sort, selection_sort, insertion_sort, merge_sort};
 ```
 
 4. Use the sorting functions with appropriate comparison functions for your data types.
-5. 
+   
 ```code
 // Example with integers
 let mut numbers = vec![4, 2, 5, 1, 3];
